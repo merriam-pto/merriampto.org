@@ -5,21 +5,24 @@ Category: about
 Tags: about
 slug: about
 
-<h3><strong>Merriam School PTO Mission</strong></h3>
+Merriam School PTO Mission
+--------------------------
+
 Merriam PTO parents:
-<ul>
-  <li>Volunteer and work together to facilitate parent and faculty communication</li>
-  <li>Advocate for students</li>
-  <li>Work to enrich the Merriam community</li>
-  <li>Raise funds to enrich the educational experience at Merriam</li>
-</ul>
+  * Volunteer and work together to facilitate parent and faculty communication
+  * Advocate for students
+  * Work to enrich the Merriam community
+  * Raise funds to enrich the educational experience at Merriam
+
 Each year, the Merriam parent community:
-<ul>
-  <li>Hosts events that to build community and allow families to socialize (the Fall Fair, International Night, and more)</li>
-  <li>Funds the Teaching Assistants in each classroom</li>
-  <li>Conducts educational “Community Conversations” to augment our knowledge</li>
-</ul>
-<h3>Join in the fun of the PTO and start to realize the benefits of your involvement.</h3>
-<strong>THE FIRST STEP IS TO EMAIL THE PTO CO-CHAIRS!</strong>
-<p style="text-align: left;">We’ll work with you to find a role that matches your skills and interest to your time availability. Contact <a href="mailto:alyheels@yahoo.com">Alycen Nigro</a> or <a href="mailto:amyyadav@gmail.com">Amy Yadav</a> for more information<a href="mailto:alyheels@yahoo.com?Subject=Merriam%20School%20PTO">.</a></p>
-<p style="text-align: left;">We look forward to working with you this year to enrich the Merriam community!</p>
+  * Hosts events that to build community and allow families to socialize (the Fall Fair, International Night, and more)
+  * Funds the Teaching Assistants in each classroom
+  * Conducts educational “Community Conversations” to augment our knowledge
+
+**Join in the fun of the PTO and start to realize the benefits of your involvement.**
+
+**THE FIRST STEP IS TO EMAIL THE PTO CO-CHAIRS!**
+
+We’ll work with you to find a role that matches your skills and interest to your time availability. Contact `Alycen Nigro<mailto:alyheels@yahoo.com>`_ or `Amy Yadav<mailto:amyyadav@gmail.com>`_ for more information
+
+We look forward to working with you this year to enrich the Merriam community!

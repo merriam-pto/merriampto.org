@@ -5,7 +5,10 @@ Category: news
 Tags: news
 slug: welcome-to-the-merriam-community
 
-<a href="http://www.merriampto.org/site/wp-content/uploads/2015/05/Fall-Fair-Sign.jpg"><img class="alignleft wp-image-1037 size-medium" style="padding-right: 20px;" src="http://www.merriampto.org/site/wp-content/uploads/2015/05/Fall-Fair-Sign-278x300.jpg" alt="Fall Fair Sign" width="139" height="150" /></a>
+.. image:: http://www.merriampto.org/site/wp-content/uploads/2015/05/Fall-Fair-Sign-278x300.jpg
+   alt: Fall Fair Sign 
+   width: 139px 
+   height: 150px
 
 The Merriam PTO works to build school community and enrich your child's education.
 
