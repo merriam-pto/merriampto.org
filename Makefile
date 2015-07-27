@@ -25,8 +25,8 @@ CLOUDFILES_CONTAINER=my_cloudfiles_container
 
 DROPBOX_DIR=~/Dropbox/Public/
 
-GITHUB_PAGES_BRANCH=gh-pages
-GITHUB_PAGES_REPO=merriam-pto/merriampto.org
+GITHUB_PAGES_BRANCH=master
+GITHUB_PAGES_REPO=merriam-pto/merriam-pto.github.io
 
 DEBUG ?= 0
 ifeq ($(DEBUG), 1)
