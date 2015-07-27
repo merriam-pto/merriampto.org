@@ -1,9 +1,11 @@
-Title: About Us
-Date: 2013-09-28 9:33
-Template: article
-Category: about
-Tags: about
-slug: about
+About Us
+########
+
+:date: 2013-09-28 9:33
+:template: article
+:category: about
+:tags: about
+:slug: about
 
 Merriam School PTO Mission
 --------------------------
@@ -23,6 +25,9 @@ Each year, the Merriam parent community:
 
 **THE FIRST STEP IS TO EMAIL THE PTO CO-CHAIRS!**
 
-We’ll work with you to find a role that matches your skills and interest to your time availability. Contact `Alycen Nigro<mailto:alyheels@yahoo.com>`_ or `Amy Yadav<mailto:amyyadav@gmail.com>`_ for more information
+We’ll work with you to find a role that matches your skills and interest to your time availability. Contact `Alycen Nigro`_,  or `Amy Yadav`_, for more information
 
 We look forward to working with you this year to enrich the Merriam community!
+
+.. _Alycen Nigro: mailto:alyheels@yahoo.com
+.. _Amy Yadav: mailto:amyyadav@gmail.com

@@ -1,14 +1,16 @@
-Title: Welcome to the Merriam Community
-Date: 2015-05-10 20:00
-Template: article
-Category: news
-Tags: news
-slug: welcome-to-the-merriam-community
+Welcome to the Merriam Community
+################################
 
-.. image:: http://www.merriampto.org/site/wp-content/uploads/2015/05/Fall-Fair-Sign-278x300.jpg
-   alt: Fall Fair Sign 
-   width: 139px 
-   height: 150px
+:Date: 2015-05-10 20:00
+:Template: article
+:Category: news
+:Tags: news
+:slug: welcome-to-the-merriam-community
+
+.. image:: /static/Fall-Fair-Sign.jpg
+   :alt: Fall Fair Sign 
+   :width: 139px 
+   :height: 150px
 
 The Merriam PTO works to build school community and enrich your child's education.
 
