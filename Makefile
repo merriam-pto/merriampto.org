@@ -26,6 +26,7 @@ CLOUDFILES_CONTAINER=my_cloudfiles_container
 DROPBOX_DIR=~/Dropbox/Public/
 
 GITHUB_PAGES_BRANCH=gh-pages
+GITHUB_PAGES_REPO=merriam-pto/merriampto.org
 
 DEBUG ?= 0
 ifeq ($(DEBUG), 1)
@@ -105,6 +106,11 @@ cf_upload: publish
 
 github: publish
 	ghp-import -m "Generate Pelican site" -b $(GITHUB_PAGES_BRANCH) $(OUTPUTDIR)
-	@git push origin $(GITHUB_PAGES_BRANCH)
+	ifdef GH_TOKEN
+		@git push -fq https://${GH_TOKEN}@github.com/$(GITHUB_PAGES_REPO).git gh-pages:$(GITHUB_PAGES_BRANCH) > /dev/null
+	else
+		@git push origin $(GITHUB_PAGES_BRANCH)
+	endif
+
 
 .PHONY: html help clean regenerate serve devserver publish ssh_upload rsync_upload dropbox_upload ftp_upload s3_upload cf_upload github
