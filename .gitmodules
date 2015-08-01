@@ -1,0 +1,3 @@
+[submodule "themes/pelican-arcana-html5up"]
+	path = themes/pelican-arcana-html5up
+	url = git://github.com/fredsmith/pelican-arcana-html5up
